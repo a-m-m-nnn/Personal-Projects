@@ -1,4 +1,4 @@
-!!!***GitHub can be a bit slow sometimes - be sure to refresh and revisit files if they are not displaying correctly***!!!
+!!! ***GitHub can be a bit slow sometimes - be sure to refresh and revisit files if they are not displaying correctly*** !!!
 
 Hello World,
 
