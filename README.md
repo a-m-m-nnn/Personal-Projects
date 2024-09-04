@@ -1,6 +1,6 @@
 Hello World,
 
-This is a repository for some of my favourite postgraduate work from my time in Imperial College London and recent experience in tech consulting, 
+This is a repository for some of my favourite postgraduate work from my time in Imperial College London and recent projects in tech consulting, 
 which I will be adding to periodically.
 
 So far, it covers a sample of my favourite:
