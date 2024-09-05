@@ -2,7 +2,7 @@
 
 Hello World,
 
-This is a repository for some of my favorite and best appraised postgraduate work from my time at Imperial and recent work in tech consulting, 
+This is a repository for some of my favorite and best appraised postgraduate work from my time at Imperial and in tech consulting, 
 which I will be adding to periodically.
 
 So far, it covers:
