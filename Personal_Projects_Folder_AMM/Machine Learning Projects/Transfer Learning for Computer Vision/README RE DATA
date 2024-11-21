@@ -1,2 +1,0 @@
-# The dataset for this stop sign classifier model is too large to be included (several gb when zipped). 
-# The dataset consists of some 220 images, evenly split between those which contain stop signs within their frame and those which don't, as well as some random images from the internet for testing

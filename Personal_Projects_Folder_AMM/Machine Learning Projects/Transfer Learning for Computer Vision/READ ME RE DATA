@@ -1,0 +1,4 @@
+# The dataset for this stop sign classifier model is too large to be included (several gb when zipped). 
+# The dataset consists of some 220 images, evenly split between those which contain stop signs within their frame and those which don't, as well as some random images from the internet for testing
+# Stop Sign Data can be downloaded at: https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CV0101EN-Coursera/dataset/stop.zip
+# Not Stop Data can be downloaded at: https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CV0101EN-Coursera/dataset/not_stop.zip
