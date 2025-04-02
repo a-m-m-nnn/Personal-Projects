@@ -1,4 +1,3 @@
-¡¡¡ ***Be sure to refresh and revisit files if they are not displaying correctly*** !!!
 
 Hello World,
 
